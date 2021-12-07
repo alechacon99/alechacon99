@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alechacon99
+- 👀 I’m interested in data science and quantitative research
+- 🌱 I’m currently learning data sceince at UMD's MIM program
+- 📫 How to reach me : alechacon99@gmail.com
